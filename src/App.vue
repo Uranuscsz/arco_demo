@@ -14,6 +14,7 @@
   </a-space>
   <br>
   <Switch/>
+	<icon-more />
   
 </template>
 
